@@ -1,0 +1,7 @@
+1)Developed a plant disease detection system using Convolutional Neural Network
+(CNN). Trained a deep learning model on a large dataset of plant images with
+various diseases.
+2)Implemented image preprocessing techniques such as augmentation, normalization,
+and resizing to improve model robustness.
+3)Achieved high accuracy in classifying plant diseases which will potentially improving
+crop yields and reducing economic losses in agriculture
